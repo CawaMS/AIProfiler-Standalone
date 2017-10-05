@@ -1,0 +1,1 @@
+Extracted from the official Microsoft Application Insights Profiler 2.4.50907.0 nupkg file.

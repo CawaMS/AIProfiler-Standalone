@@ -9,6 +9,7 @@ This shows how to install and manage AI Profiler on any other environment where 
 # Disclaimer:
 
 This is not an officially supported Microsoft solution.
+Microsoft is not responsible for supporting bug tickets or evolving features on this code.
 
 
 # How to use:
