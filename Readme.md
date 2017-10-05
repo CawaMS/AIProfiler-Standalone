@@ -20,6 +20,7 @@ In a PowerShell console, as administrator:
 Import-Module ./AIProfiler.psm1
 
 # Before starting, prepare the environment with my settings.
+# This guid should be instrumentation key for the Application Insights instance my web application is configured to use.
 Set-AIProfilerConfiguration -InstrumentationKey "00000000-0000-0000-0000-000000000000" -LogFolder "C:\Logs"
 
 # Start AI Profiler without blocking this console.
