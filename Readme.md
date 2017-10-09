@@ -14,7 +14,11 @@ Microsoft is not responsible for supporting bug tickets or evolving features on 
 
 # How to use:
 
-In a PowerShell console, as administrator:
+1. Make sure to visit you Azure Application Insights instance portal blade and enable it for Profiler.
+For more information, see: [Enable the Profiler](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-profiler#enable-the-profiler)
+
+
+2. Open a PowerShell console as administrator in the same system where your web application is running from (e.g: an Azure Virtual Machine):
 
 ```powershell
 Import-Module ./AIProfiler.psm1
